@@ -68,7 +68,7 @@ The dashboard enables analysis of:
 
 ## Dashboard Preview
 
-![Simple Sales Performance Dashboard](dashboard-preview)
+![Simple Sales Performance Dashboard](dashboard-preview.png)
 
 ## Project File
 
