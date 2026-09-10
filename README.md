@@ -66,6 +66,10 @@ The dashboard enables analysis of:
 - Units sold
 - Interactive filtering by month and region
 
+## Dashboard Preview
+
+![Simple Sales Performance Dashboard](dashboard-preview.png)
+
 ## Project File
 
 The Power BI project file is available in this repository:
